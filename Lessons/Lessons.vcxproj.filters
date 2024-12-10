@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\Lesson_3">
+      <UniqueIdentifier>{900bf5db-cd1a-4c68-8fd6-c28ee1c87801}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Task_3.1.cpp">
+      <Filter>Исходные файлы\Lesson_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
