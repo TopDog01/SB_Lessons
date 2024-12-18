@@ -21,5 +21,8 @@
     <ClCompile Include="Task_3.1.cpp">
       <Filter>Исходные файлы\Lesson_3</Filter>
     </ClCompile>
+    <ClCompile Include="Task_3.2.cpp">
+      <Filter>Исходные файлы\Lesson_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
