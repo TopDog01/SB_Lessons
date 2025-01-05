@@ -1,7 +1,7 @@
-#include <iostream>
+//#include <iostream>
 
 
-int main() {
+//int main() {
 //
 //	//int productCost = 6400;
 //
@@ -9,21 +9,21 @@ int main() {
 //
 //	//int discount = 700;
 
-    setlocale(LC_ALL, "Russian");
+//    setlocale(LC_ALL, "Russian");
 
-    int productCost;
-    std::cout << "¬ведите стоимость товара: ";
-    std::cin >> productCost;
+//    int productCost;
+//    std::cout << "¬ведите стоимость товара: ";
+//    std::cin >> productCost;
 
-    int deliveryCost;
-    std::cout << "¬ведите стоимость доставки: ";
-    std::cin >> deliveryCost;
+//    int deliveryCost;
+//    std::cout << "¬ведите стоимость доставки: ";
+//    std::cin >> deliveryCost;
 
-    int discount;
-    std::cout << "¬ведите размер скидки: ";
-    std::cin >> discount;
+//    int discount;
+//    std::cout << "¬ведите размер скидки: ";
+//    std::cin >> discount;
 
-    int price = productCost + deliveryCost - discount;
-    std::cout << "---------";
-    std::cout << "»того: " << price << "\n";
-}
+//    int price = productCost + deliveryCost - discount;
+//    std::cout << "---------";
+//    std::cout << "»того: " << price << "\n";
+//}
