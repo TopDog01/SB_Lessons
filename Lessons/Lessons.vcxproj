@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Task_1.cpp" />
     <ClCompile Include="Task_3.3.1.cpp" />
     <ClCompile Include="Task_3.1.cpp" />
     <ClCompile Include="Task_3.2.cpp" />

@@ -16,6 +16,9 @@
     <Filter Include="Исходные файлы\Lesson_3">
       <UniqueIdentifier>{900bf5db-cd1a-4c68-8fd6-c28ee1c87801}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Lesson_4">
+      <UniqueIdentifier>{e939a452-9fdf-428d-a660-c7f23f9971f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Task_3.1.cpp">
@@ -35,6 +38,9 @@
     </ClCompile>
     <ClCompile Include="Task_3.4.1.cpp">
       <Filter>Исходные файлы\Lesson_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_1.cpp">
+      <Filter>Исходные файлы\Lesson_4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
