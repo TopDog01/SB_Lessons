@@ -42,5 +42,8 @@
     <ClCompile Include="Task0.cpp">
       <Filter>Исходные файлы\Lesson_4</Filter>
     </ClCompile>
+    <ClCompile Include="Task1.cpp">
+      <Filter>Исходные файлы\Lesson_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
