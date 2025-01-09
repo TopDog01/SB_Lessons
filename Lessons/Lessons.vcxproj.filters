@@ -39,7 +39,7 @@
     <ClCompile Include="Task_3.4.1.cpp">
       <Filter>Исходные файлы\Lesson_3</Filter>
     </ClCompile>
-    <ClCompile Include="Task_1.cpp">
+    <ClCompile Include="Task0.cpp">
       <Filter>Исходные файлы\Lesson_4</Filter>
     </ClCompile>
   </ItemGroup>
